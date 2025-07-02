@@ -2,6 +2,8 @@
 
 This project presents a Retrieval-Augmented Generation (RAG) system designed to answer complex legal queries within the context of the General Data Protection Regulation (GDPR). It integrates semantic chunking, hybrid retrieval (dense + sparse), and cross-encoder reranking to deliver grounded, traceable responses using Gemini 2.0 Flash as the Large Language Model (LLM).
 
+🧑‍🎓 **This repository was developed as part of a university assignment for the MSc in Business Analytics at Warwick Business School.**
+
 ---
 
 ## 📌 Table of Contents
