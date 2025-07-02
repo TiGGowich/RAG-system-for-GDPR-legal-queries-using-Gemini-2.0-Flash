@@ -100,6 +100,8 @@ One key failure case (Q2) revealed a core RAG limitation: the inability to answe
 - `BAAI/bge-base-en`, `bge-reranker-large`
 - `Gemini Flash 2.0` via API
 - `NLTK`
+- `Langchain`, `Langchain-community`
+- `pydf`
 
 ---
 
