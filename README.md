@@ -119,4 +119,4 @@ Download the full PDF report [here](./RAG_assignment.pdf) for methodology, detai
 
 ## 📫 Contact
 
-Feel free to reach out on [LinkedIn](www.linkedin.com/in/benjamin-sachse-consultant) or by email if you’d like to discuss this project or collaborate on similar work.
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/benjamin-sachse-consultant) if you’d like to discuss this project or collaborate on similar work.
